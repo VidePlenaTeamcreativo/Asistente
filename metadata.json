@@ -1,0 +1,6 @@
+{
+  "name": "Secretaria Ejecutiva PWA",
+  "description": "Centralized Mobile-First PWA acting as an intelligent Executive Assistant, orchestrating Studio, Marketing, and Personal tasks with Gemini AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
